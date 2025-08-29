@@ -1,4 +1,4 @@
-<img width="354" height="267" alt="cp" src="https://github.com/user-attachments/assets/f31be7fc-1874-4cac-85f1-986591329762" /># Ex-01-Linux-Commands
+# Ex-01-Linux-Commands
 
 
 ## Aim:
@@ -257,6 +257,19 @@ Syntax: find.-name”*.pdf”
 <br>  <br>
 <img width="933" height="97" alt="id" src="https://github.com/user-attachments/assets/20cec62a-90fb-4cbf-a90a-6dc804968752" />
 <br>  <br>
+<img width="354" height="267" alt="cp" src="https://github.com/user-attachments/assets/f31be7fc-1874-4cac-85f1-986591329762" />
+<br>  <br>
+<img width="370" height="93" alt="mkdir cd" src="https://github.com/user-attachments/assets/25de3f32-418b-48f6-bbbc-630652a957ac" />
+<br>  <br>
+<img width="829" height="152" alt="mv" src="https://github.com/user-attachments/assets/dc0f06ad-afb4-4e4a-a39e-35d6c1cd43c0" />
+<br>  <br>
+<img width="285" height="54" alt="pwd" src="https://github.com/user-attachments/assets/aed68783-448e-438d-8363-fb725c297079" />
+<br>  <br>
+<img width="416" height="207" alt="tail" src="https://github.com/user-attachments/assets/8870687c-4cc8-42ff-b8a5-0768c79fd552" />
+<br>  <br>
+<img width="281" height="56" alt="rmdir" src="https://github.com/user-attachments/assets/b2c4ccdf-7740-4ae2-8a0b-a2ce29aa0ed8" />
+<br>  <br>
+<img width="326" height="127" alt="tr" src="https://github.com/user-attachments/assets/6e5549fd-9231-47ba-b039-9178b9a16172" />
 
 
 
